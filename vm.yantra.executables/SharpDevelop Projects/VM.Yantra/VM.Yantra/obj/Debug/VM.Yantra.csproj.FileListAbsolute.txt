@@ -1,0 +1,10 @@
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Blockchain\VM.Blockchain\obj\Debug\VM.Yantra.csprojResolveAssemblyReference.cache
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Blockchain\VM.Blockchain\bin\Debug\VM.Yantra.dll
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Blockchain\VM.Blockchain\bin\Debug\VM.Yantra.pdb
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Blockchain\VM.Blockchain\obj\Debug\VM.Yantra.dll
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Blockchain\VM.Blockchain\obj\Debug\VM.Yantra.pdb
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\VM.Yantra\bin\Debug\VM.Yantra.dll
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\VM.Yantra\bin\Debug\VM.Yantra.pdb
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\VM.Yantra\obj\Debug\VM.Yantra.csprojResolveAssemblyReference.cache
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\VM.Yantra\obj\Debug\VM.Yantra.dll
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\VM.Yantra\obj\Debug\VM.Yantra.pdb

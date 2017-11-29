@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!--Block Sample-->
+<!--Only for demo purpose-->
+
+<YANTRA.BLOCKCHAIN>
+<Nodes>
+	<Node IP="127.0.0.1" Port="8080"></Node>
+	<Node IP="127.0.0.2" Port="8080"></Node>
+	<Node IP="127.0.0.3" Port="8080"></Node>
+	<Node IP="127.0.0.4" Port="8080"></Node>
+</Nodes>
+</YANTRA.BLOCKCHAIN>

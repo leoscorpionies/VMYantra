@@ -1,0 +1,14 @@
+A. Data File:
+
+Create folders as mentioned below.
+1. Go to C:\ drive
+2. Create folder VM.Yantra
+3. Open VM.Yantra
+4. Create sub-folder Data for VM.Yantra folder
+
+Check data path and it must be like C:\vm.yantra\data
+
+
+B. Extract VM.Yantra to C\
+
+C. Run C:\vm.yantra\VM.Yantra.GUI\bin\Debug\VM.Yantra.GUI.exe

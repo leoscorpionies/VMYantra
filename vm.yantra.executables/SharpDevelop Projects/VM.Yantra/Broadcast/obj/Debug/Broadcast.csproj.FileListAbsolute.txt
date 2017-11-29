@@ -1,0 +1,8 @@
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\Broadcast\bin\Debug\Broadcast.exe.config
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\Broadcast\bin\Debug\Broadcast.exe
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\Broadcast\bin\Debug\Broadcast.pdb
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\Broadcast\bin\Debug\VM.Yantra.dll
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\Broadcast\bin\Debug\VM.Yantra.pdb
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\Broadcast\obj\Debug\Broadcast.csprojResolveAssemblyReference.cache
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\Broadcast\obj\Debug\Broadcast.exe
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\Broadcast\obj\Debug\Broadcast.pdb

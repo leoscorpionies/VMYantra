@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Yantra.xsl"?>
+<YANTRA.BLOCKCHAIN>
+  <LEDGER>
+    <RECORD>
+      <ID>
+      </ID>
+      <REQUEST>
+      </REQUEST>
+      <REFERENCE>
+      </REFERENCE>
+    </RECORD>
+    <RECORD>
+      <ID> 1 </ID> <REQUEST> 127.0.0.2_6bdbe91f-8f68-4b4b-a4e2-e674f0f88944_1.xml </REQUEST> <REFERENCE>  </REFERENCE> <STATE> ACTIVE </STATE> <STATUS> PENDING </STATUS></RECORD>
+  </LEDGER>
+</YANTRA.BLOCKCHAIN>

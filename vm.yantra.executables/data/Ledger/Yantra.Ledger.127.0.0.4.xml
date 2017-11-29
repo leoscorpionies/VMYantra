@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Yantra.xsl"?>
+<YANTRA.BLOCKCHAIN>
+  <LEDGER>
+    <RECORD>
+      <ID>
+      </ID>
+      <REQUEST>
+      </REQUEST>
+      <REFERENCE>
+      </REFERENCE>
+    </RECORD>
+    <RECORD>
+      <ID> 1 </ID>
+      <REQUEST> 127.0.0.4_1f7b7f17-5f72-4fcd-96c2-057c18224cce_1.xml </REQUEST>
+      <REFERENCE>
+      </REFERENCE>
+      <STATE> ACTIVE </STATE>
+      <STATUS> PENDING </STATUS>
+    </RECORD>
+    <RECORD>
+      <ID> 2 </ID>
+      <REQUEST> 127.0.0.4_0316dad2-a2f5-41a7-ab7d-70322b9abdfb_2.xml </REQUEST>
+      <REFERENCE>  127.0.0.4_1f7b7f17-5f72-4fcd-96c2-057c18224cce_1.xml  </REFERENCE>
+      <STATE> ACTIVE </STATE>
+      <STATUS> PENDING </STATUS>
+    </RECORD>
+    <RECORD>
+      <ID> 3 </ID>
+      <REQUEST> 127.0.0.4_95323c78-93d5-4eb2-84cd-f141c1c7eae5_3.xml </REQUEST>
+      <REFERENCE>  127.0.0.4_0316dad2-a2f5-41a7-ab7d-70322b9abdfb_2.xml  </REFERENCE>
+      <STATE> ACTIVE </STATE>
+      <STATUS> PENDING </STATUS>
+    </RECORD>
+    <RECORD>
+      <ID> 4 </ID>
+      <REQUEST> 127.0.0.4_f0503866-e54e-45da-bcf5-05b44405d465_4.xml </REQUEST>
+      <REFERENCE>  127.0.0.4_95323c78-93d5-4eb2-84cd-f141c1c7eae5_3.xml  </REFERENCE>
+      <STATE> ACTIVE </STATE>
+      <STATUS> PENDING </STATUS>
+    </RECORD>
+    <RECORD>
+      <ID> 5 </ID> <REQUEST> 127.0.0.4_7babd4b4-0938-473a-beb2-75b0c4c30b6d_5.xml </REQUEST> <REFERENCE>  127.0.0.4_f0503866-e54e-45da-bcf5-05b44405d465_4.xml  </REFERENCE> <STATE> ACTIVE </STATE> <STATUS> PENDING </STATUS></RECORD>
+  </LEDGER>
+</YANTRA.BLOCKCHAIN>

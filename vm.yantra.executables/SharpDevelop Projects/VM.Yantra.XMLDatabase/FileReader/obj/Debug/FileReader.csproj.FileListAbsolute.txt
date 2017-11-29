@@ -1,0 +1,6 @@
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra.XMLDatabase\FileReader\bin\Debug\FileReader.exe.config
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra.XMLDatabase\FileReader\bin\Debug\FileReader.exe
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra.XMLDatabase\FileReader\bin\Debug\FileReader.pdb
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra.XMLDatabase\FileReader\obj\Debug\FileReader.csprojResolveAssemblyReference.cache
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra.XMLDatabase\FileReader\obj\Debug\FileReader.exe
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra.XMLDatabase\FileReader\obj\Debug\FileReader.pdb

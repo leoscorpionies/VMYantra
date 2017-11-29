@@ -1,0 +1,5 @@
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra.XMLDatabase\XMLDatabase.XML\bin\Debug\XMLDatabase.XML.dll
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra.XMLDatabase\XMLDatabase.XML\bin\Debug\XMLDatabase.XML.pdb
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra.XMLDatabase\XMLDatabase.XML\obj\Debug\XMLDatabase.XML.csprojResolveAssemblyReference.cache
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra.XMLDatabase\XMLDatabase.XML\obj\Debug\XMLDatabase.XML.dll
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra.XMLDatabase\XMLDatabase.XML\obj\Debug\XMLDatabase.XML.pdb
