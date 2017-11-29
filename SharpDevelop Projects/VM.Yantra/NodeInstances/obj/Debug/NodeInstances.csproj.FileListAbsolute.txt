@@ -1,0 +1,8 @@
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\NodeInstances\bin\Debug\NodeInstances.exe.config
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\NodeInstances\bin\Debug\NodeInstances.exe
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\NodeInstances\bin\Debug\NodeInstances.pdb
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\NodeInstances\bin\Debug\VM.Yantra.dll
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\NodeInstances\bin\Debug\VM.Yantra.pdb
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\NodeInstances\obj\Debug\NodeInstances.csprojResolveAssemblyReference.cache
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\NodeInstances\obj\Debug\NodeInstances.exe
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\NodeInstances\obj\Debug\NodeInstances.pdb

@@ -1,0 +1,13 @@
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\VM.Yantra.GUI\bin\Debug\VM.Yantra.GUI.exe.config
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\VM.Yantra.GUI\bin\Debug\VM.Yantra.GUI.exe
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\VM.Yantra.GUI\bin\Debug\VM.Yantra.GUI.pdb
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\VM.Yantra.GUI\bin\Debug\VM.Yantra.dll
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\VM.Yantra.GUI\bin\Debug\VM.Yantra.pdb
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\VM.Yantra.GUI\obj\Debug\VM.Yantra.GUI.csprojResolveAssemblyReference.cache
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\VM.Yantra.GUI\obj\Debug\VM.Yantra.GUI.About.resources
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\VM.Yantra.GUI\obj\Debug\VM.Yantra.GUI.Broadcast.resources
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\VM.Yantra.GUI\obj\Debug\VM.Yantra.GUI.Message.resources
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\VM.Yantra.GUI\obj\Debug\VM.Yantra.GUI.MainForm.resources
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\VM.Yantra.GUI\obj\Debug\VM.Yantra.GUI.csproj.GenerateResource.Cache
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\VM.Yantra.GUI\obj\Debug\VM.Yantra.GUI.exe
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\VM.Yantra.GUI\obj\Debug\VM.Yantra.GUI.pdb

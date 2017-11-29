@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLDatabase", "XMLDatabase\XMLDatabase.csproj", "{6B90F0D8-C715-4D08-A8F5-6C039E45745C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLDatabase.XML", "XMLDatabase.XML\XMLDatabase.XML.csproj", "{02118C3E-D65D-45BA-B79E-BF6AA6F0457B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileReader", "FileReader\FileReader.csproj", "{0B150AC3-0D5C-4E7D-AC7E-5AAA49AE6D2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zodiac", "zodiac\zodiac.csproj", "{76520865-A557-4AE5-B580-C69E7CB11D75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B90F0D8-C715-4D08-A8F5-6C039E45745C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B90F0D8-C715-4D08-A8F5-6C039E45745C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B90F0D8-C715-4D08-A8F5-6C039E45745C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B90F0D8-C715-4D08-A8F5-6C039E45745C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02118C3E-D65D-45BA-B79E-BF6AA6F0457B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02118C3E-D65D-45BA-B79E-BF6AA6F0457B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02118C3E-D65D-45BA-B79E-BF6AA6F0457B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02118C3E-D65D-45BA-B79E-BF6AA6F0457B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B150AC3-0D5C-4E7D-AC7E-5AAA49AE6D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B150AC3-0D5C-4E7D-AC7E-5AAA49AE6D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B150AC3-0D5C-4E7D-AC7E-5AAA49AE6D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B150AC3-0D5C-4E7D-AC7E-5AAA49AE6D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76520865-A557-4AE5-B580-C69E7CB11D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76520865-A557-4AE5-B580-C69E7CB11D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76520865-A557-4AE5-B580-C69E7CB11D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76520865-A557-4AE5-B580-C69E7CB11D75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

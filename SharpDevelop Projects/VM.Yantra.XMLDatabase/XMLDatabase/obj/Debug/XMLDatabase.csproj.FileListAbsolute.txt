@@ -1,0 +1,8 @@
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra.XMLDatabase\XMLDatabase\bin\Debug\XMLDatabase.exe.config
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra.XMLDatabase\XMLDatabase\bin\Debug\XMLDatabase.exe
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra.XMLDatabase\XMLDatabase\bin\Debug\XMLDatabase.pdb
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra.XMLDatabase\XMLDatabase\obj\Debug\XMLDatabase.csprojResolveAssemblyReference.cache
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra.XMLDatabase\XMLDatabase\obj\Debug\XMLDatabase.exe
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra.XMLDatabase\XMLDatabase\obj\Debug\XMLDatabase.pdb
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra.XMLDatabase\XMLDatabase\obj\Debug\XMLDatabase.csproj.GenerateResource.Cache
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra.XMLDatabase\XMLDatabase\obj\Debug\XMLDatabase.Form1.resources

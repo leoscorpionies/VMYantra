@@ -1,0 +1,8 @@
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\Test\bin\Debug\Test.exe.config
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\Test\bin\Debug\Test.exe
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\Test\bin\Debug\Test.pdb
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\Test\bin\Debug\VM.Yantra.dll
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\Test\bin\Debug\VM.Yantra.pdb
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\Test\obj\Debug\Test.exe
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\Test\obj\Debug\Test.pdb
+C:\Users\viprava\Documents\SharpDevelop Projects\VM.Yantra\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
