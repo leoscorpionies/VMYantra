@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yantra", "Yantra\Yantra.csproj", "{9417608B-4BFF-437B-82BE-27E3581DC89F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YantraClient", "YantraClient\YantraClient.csproj", "{800DAB84-DC31-41BD-B4A4-D7765B9CF97E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoCurrency", "CryptoCurrency\CryptoCurrency.csproj", "{914ACDA1-9ED9-4DE8-AE09-FE4E460F5BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9417608B-4BFF-437B-82BE-27E3581DC89F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9417608B-4BFF-437B-82BE-27E3581DC89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9417608B-4BFF-437B-82BE-27E3581DC89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9417608B-4BFF-437B-82BE-27E3581DC89F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{800DAB84-DC31-41BD-B4A4-D7765B9CF97E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800DAB84-DC31-41BD-B4A4-D7765B9CF97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800DAB84-DC31-41BD-B4A4-D7765B9CF97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800DAB84-DC31-41BD-B4A4-D7765B9CF97E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{914ACDA1-9ED9-4DE8-AE09-FE4E460F5BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{914ACDA1-9ED9-4DE8-AE09-FE4E460F5BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{914ACDA1-9ED9-4DE8-AE09-FE4E460F5BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{914ACDA1-9ED9-4DE8-AE09-FE4E460F5BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

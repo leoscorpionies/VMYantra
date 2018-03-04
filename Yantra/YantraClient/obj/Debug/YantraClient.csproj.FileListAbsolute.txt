@@ -1,0 +1,6 @@
+C:\Users\viprava\Documents\SharpDevelop Projects\Yantra\YantraClient\bin\Debug\YantraClient.exe.config
+C:\Users\viprava\Documents\SharpDevelop Projects\Yantra\YantraClient\bin\Debug\YantraClient.exe
+C:\Users\viprava\Documents\SharpDevelop Projects\Yantra\YantraClient\bin\Debug\YantraClient.pdb
+C:\Users\viprava\Documents\SharpDevelop Projects\Yantra\YantraClient\obj\Debug\YantraClient.csprojResolveAssemblyReference.cache
+C:\Users\viprava\Documents\SharpDevelop Projects\Yantra\YantraClient\obj\Debug\YantraClient.exe
+C:\Users\viprava\Documents\SharpDevelop Projects\Yantra\YantraClient\obj\Debug\YantraClient.pdb

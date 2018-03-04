@@ -1,0 +1,5 @@
+C:\Users\viprava\Documents\SharpDevelop Projects\Yantra\CryptoCurrency\bin\Debug\CryptoCurrency.dll
+C:\Users\viprava\Documents\SharpDevelop Projects\Yantra\CryptoCurrency\bin\Debug\CryptoCurrency.pdb
+C:\Users\viprava\Documents\SharpDevelop Projects\Yantra\CryptoCurrency\obj\Debug\CryptoCurrency.dll
+C:\Users\viprava\Documents\SharpDevelop Projects\Yantra\CryptoCurrency\obj\Debug\CryptoCurrency.pdb
+C:\Users\viprava\Documents\SharpDevelop Projects\Yantra\CryptoCurrency\obj\Debug\CryptoCurrency.csprojResolveAssemblyReference.cache
